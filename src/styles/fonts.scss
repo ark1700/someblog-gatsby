@@ -1,0 +1,47 @@
+@font-face {
+  font-display: swap;
+  font-family: 'ApercuMonoPro';
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('apercumonopro-regular'),
+    url('./fonts/apercumonopro-regular.woff') format("woff"),
+    url('./fonts/apercumonopro-regular.woff2') format("woff2")
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'ApercuMonoPro';
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('apercumonopro-medium'),
+    url('./fonts/apercumonopro-medium.woff') format("woff"),
+    url('./fonts/apercumonopro-medium.woff2') format("woff2")
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'ApercuMonoPro';
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('apercumonopro-bold'),
+    url('./fonts/apercumonopro-bold.woff') format("woff"),
+    url('./fonts/apercumonopro-bold.woff2') format("woff2")
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'ArameMono';
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('aramemono'),
+    url('./fonts/arame-mono.woff') format("woff"),
+    url('./fonts/arame-mono.woff2') format("woff2")
+}

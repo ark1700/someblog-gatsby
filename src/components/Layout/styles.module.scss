@@ -1,0 +1,19 @@
+.main {
+  flex-grow: 1;
+  padding: 60px 0;
+  @media (max-width: 768px) {
+    padding: 40px 0;
+  }
+}
+
+.footer {
+  padding: 20px 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.footer-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

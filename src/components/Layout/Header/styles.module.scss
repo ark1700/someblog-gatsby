@@ -1,0 +1,19 @@
+.header {
+  padding: 20px 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.logo {
+  font-family: 'ArameMono', sans-serif;
+  font-size: 60px;
+  line-height: 70px;
+  @media (max-width: 1280px) {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  @media (max-width: 768px) {
+    font-size: 24px;
+    line-height: 30px;
+  }
+}

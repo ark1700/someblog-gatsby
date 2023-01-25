@@ -1,0 +1,10 @@
+.blog-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px 10px;
+  list-style: none;
+  padding-left: 0;
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
